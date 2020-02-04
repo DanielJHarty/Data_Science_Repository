@@ -1,2 +1,2 @@
-# Data_Science_Tutorials
-A collection of worked through Data Science tutorials
+# Data_Science
+A collection of worked through Data Science tutorials and projects
